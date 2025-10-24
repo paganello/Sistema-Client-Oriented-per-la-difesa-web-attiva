@@ -10,10 +10,6 @@ The system is built upon **WireGuard VPN**, **OPNsense**, **ClamAV**, and a **cu
 | **ClamAV**    | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/New_ClamAV_Logo.svg/1200px-New_ClamAV_Logo.svg.png" height="40">          | Open-source antivirus engine for malware scanning.   |
 | **Java**      | <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="40">                                                            | Custom application for orchestration and automation. |
 
-
-📄 **Read the full thesis (IT):** [cloud.thomaspaganelli.eu/s/54GbAPn933TRAi8](https://cloud.thomaspaganelli.eu/s/54GbAPn933TRAi8)
-
-
 ### Acknowledgements
 Co-Worker: ![Davide Bonsembiante](https://github.com/bnsdavide03). <br>
 Supervisor: ![Matthew Rossi](https://github.com/matthewrossi) 
